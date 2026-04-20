@@ -1,0 +1,6 @@
+﻿  CSC114-Module4-Assignment.cpp
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module4-Assignment\CSC114-Module4-Assignment\CSC114-Module4-Assignment.cpp(69,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module4-Assignment\CSC114-Module4-Assignment\CSC114-Module4-Assignment.cpp(71,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module4-Assignment\CSC114-Module4-Assignment\CSC114-Module4-Assignment.cpp(73,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module4-Assignment\CSC114-Module4-Assignment\CSC114-Module4-Assignment.cpp(75,20): warning C4305: '=': truncation from 'double' to 'float'
+  CSC114-Module4-Assignment.vcxproj -> D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module4-Assignment\x64\Debug\CSC114-Module4-Assignment.exe

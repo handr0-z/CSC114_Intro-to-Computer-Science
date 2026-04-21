@@ -1,0 +1,3 @@
+﻿  CSC114-Module5-Assignment2.cpp
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module5-Assignment2\CSC114-Module5-Assignment2\CSC114-Module5-Assignment2.cpp(108,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CSC114-Module5-Assignment2.vcxproj -> D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module5-Assignment2\x64\Debug\CSC114-Module5-Assignment2.exe

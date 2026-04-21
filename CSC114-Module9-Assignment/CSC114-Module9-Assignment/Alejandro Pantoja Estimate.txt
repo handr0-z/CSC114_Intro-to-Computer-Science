@@ -1,0 +1,26 @@
+Customer Name: Alejandro Pantoja
+
+------------------------------------------------------------------------------------------------------
+# OF ROOMS TO BE PAINTED: 3
+JOB SQUARE FOOTAGE: 2079.00 SF
+
+LABOR TIME: 151 Hours
+COST: $3780.00
+
+PAINT REQUIRED: 19 Gallons
+COST: $640.52
+
+TOTAL COST: $4420.52
+
+Note: See below for material/ labor breakdown per room.
+
+------------------------------------------------------------------------------------------------------
+Room #       Room SF       Paint Qty        Paint Cost      Labor Hrs       Labor Cost        Total
+------------------------------------------------------------------------------------------------------
+
+  1        534.00 SF       5 gallons         $164.52         39 hrs          $970.91         $1135.43
+
+  2        567.00 SF       5 gallons         $174.69         41 hrs         $1030.91         $1205.60
+
+  3        978.00 SF       9 gallons         $301.31         71 hrs         $1778.18         $2079.49
+

@@ -1,0 +1,6 @@
+﻿  CSC114-Module9-Assignment.cpp
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module9-Assignment\CSC114-Module9-Assignment\CSC114-Module9-Assignment.cpp(321,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module9-Assignment\CSC114-Module9-Assignment\CSC114-Module9-Assignment.cpp(329,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module9-Assignment\CSC114-Module9-Assignment\CSC114-Module9-Assignment.cpp(334,1): warning C4715: 'fileOpen': not all control paths return a value
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module9-Assignment\CSC114-Module9-Assignment\CSC114-Module9-Assignment.cpp(297,1): warning C4715: 'inputTxtFile': not all control paths return a value
+  CSC114-Module9-Assignment.vcxproj -> D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module9-Assignment\x64\Debug\CSC114-Module9-Assignment.exe

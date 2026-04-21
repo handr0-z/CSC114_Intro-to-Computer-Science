@@ -1,0 +1,4 @@
+﻿  CSC114-Final Project.cpp
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Final Project\CSC114-Final Project\CSC114-Final Project.cpp(45,6): warning C4101: 'j': unreferenced local variable
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Final Project\CSC114-Final Project\CSC114-Final Project.cpp(44,6): warning C4101: 'i': unreferenced local variable
+  CSC114-Final Project.vcxproj -> D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Final Project\x64\Debug\CSC114-Final Project.exe

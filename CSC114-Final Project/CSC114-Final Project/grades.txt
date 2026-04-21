@@ -1,0 +1,124 @@
+Delaware Technical Community College
+CSC 114: Final Project
+Name: Alejandro Pantoja Zurita
+Instructor: Mike Thompson
+------------------------------------------------------------------------------------------------------
+                                         -- Student Grades --                                         
+------------------------------------------------------------------------------------------------------
+This file was created store student's final grades for the semester. 'studentNames.txt' & 'scores.txt'
+files were used in order to calculate the correct letter grade for each student inside the program.
+
+Grade calculations are based on Delaware Technical Community College's grading policy.
+------------------------------------------------------------------------------------------------------
+
+STUDENT #1: Student1
+
+AVERAGE GRADE: B - AVERAGE SCORE: 80.40
+
+Course #1 Grade: F - Score: 67
+Course #2 Grade: C - Score: 78
+Course #3 Grade: B - Score: 89
+Course #4 Grade: A - Score: 90
+Course #5 Grade: C - Score: 78
+
+------------------------------------------------------------------------------------------------------
+STUDENT #2: Student2
+
+AVERAGE GRADE: B - AVERAGE SCORE: 84.20
+
+Course #1 Grade: C - Score: 78
+Course #2 Grade: B - Score: 89
+Course #3 Grade: F - Score: 66
+Course #4 Grade: A - Score: 99
+Course #5 Grade: B - Score: 89
+
+------------------------------------------------------------------------------------------------------
+STUDENT #3: Student3
+
+AVERAGE GRADE: F - AVERAGE SCORE: 64.20
+
+Course #1 Grade: F - Score: 40
+Course #2 Grade: F - Score: 60
+Course #3 Grade: C - Score: 78
+Course #4 Grade: B - Score: 89
+Course #5 Grade: F - Score: 54
+
+------------------------------------------------------------------------------------------------------
+STUDENT #4: Student4
+
+AVERAGE GRADE: F - AVERAGE SCORE: 61.20
+
+Course #1 Grade: C - Score: 76
+Course #2 Grade: F - Score: 53
+Course #3 Grade: B - Score: 89
+Course #4 Grade: F - Score: 21
+Course #5 Grade: F - Score: 67
+
+------------------------------------------------------------------------------------------------------
+STUDENT #5: Student5
+
+AVERAGE GRADE: C - AVERAGE SCORE: 74.80
+
+Course #1 Grade: A - Score: 98
+Course #2 Grade: F - Score: 45
+Course #3 Grade: F - Score: 67
+Course #4 Grade: C - Score: 77
+Course #5 Grade: B - Score: 87
+
+------------------------------------------------------------------------------------------------------
+STUDENT #6: Student6
+
+AVERAGE GRADE: C - AVERAGE SCORE: 79.00
+
+Course #1 Grade: F - Score: 65
+Course #2 Grade: F - Score: 67
+Course #3 Grade: B - Score: 87
+Course #4 Grade: C - Score: 78
+Course #5 Grade: A - Score: 98
+
+------------------------------------------------------------------------------------------------------
+STUDENT #7: Student7
+
+AVERAGE GRADE: A - AVERAGE SCORE: 90.20
+
+Course #1 Grade: B - Score: 85
+Course #2 Grade: B - Score: 86
+Course #3 Grade: A - Score: 99
+Course #4 Grade: A - Score: 95
+Course #5 Grade: B - Score: 86
+
+------------------------------------------------------------------------------------------------------
+STUDENT #8: Student8
+
+AVERAGE GRADE: A - AVERAGE SCORE: 92.00
+
+Course #1 Grade: A - Score: 95
+Course #2 Grade: A - Score: 90
+Course #3 Grade: B - Score: 87
+Course #4 Grade: B - Score: 88
+Course #5 Grade: A - Score: 100
+
+------------------------------------------------------------------------------------------------------
+STUDENT #9: Student9
+
+AVERAGE GRADE: F - AVERAGE SCORE: 56.20
+
+Course #1 Grade: C - Score: 78
+Course #2 Grade: F - Score: 33
+Course #3 Grade: F - Score: 45
+Course #4 Grade: F - Score: 55
+Course #5 Grade: C - Score: 70
+
+------------------------------------------------------------------------------------------------------
+STUDENT #10: Student10
+
+AVERAGE GRADE: A - AVERAGE SCORE: 91.60
+
+Course #1 Grade: A - Score: 98
+Course #2 Grade: B - Score: 88
+Course #3 Grade: A - Score: 92
+Course #4 Grade: A - Score: 90
+Course #5 Grade: A - Score: 90
+
+------------------------------------------------------------------------------------------------------
+

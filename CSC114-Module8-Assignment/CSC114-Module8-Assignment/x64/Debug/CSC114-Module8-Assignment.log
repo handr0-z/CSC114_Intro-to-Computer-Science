@@ -1,0 +1,4 @@
+﻿  CSC114-Module8-Assignment.cpp
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module8-Assignment\CSC114-Module8-Assignment\CSC114-Module8-Assignment.cpp(55,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module8-Assignment\CSC114-Module8-Assignment\CSC114-Module8-Assignment.cpp(207,1): warning C4715: 'programLoop': not all control paths return a value
+  CSC114-Module8-Assignment.vcxproj -> D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module8-Assignment\x64\Debug\CSC114-Module8-Assignment.exe

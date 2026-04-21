@@ -1,0 +1,7 @@
+﻿  CSC114-Module8-Lab 1.cpp
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module8-Lab 1\CSC114-Module8-Lab 1\CSC114-Module8-Lab 1.cpp(91,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module8-Lab 1\CSC114-Module8-Lab 1\CSC114-Module8-Lab 1.cpp(93,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module8-Lab 1\CSC114-Module8-Lab 1\CSC114-Module8-Lab 1.cpp(95,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module8-Lab 1\CSC114-Module8-Lab 1\CSC114-Module8-Lab 1.cpp(242,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module8-Lab 1\CSC114-Module8-Lab 1\CSC114-Module8-Lab 1.cpp(217,1): warning C4715: 'menuLoop': not all control paths return a value
+  CSC114-Module8-Lab 1.vcxproj -> D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module8-Lab 1\x64\Debug\CSC114-Module8-Lab 1.exe

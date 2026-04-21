@@ -1,0 +1,11 @@
+﻿  CSC114-Module7-Lab1.cpp
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Lab1\CSC114-Module7-Lab1\CSC114-Module7-Lab1.cpp(24,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Lab1\CSC114-Module7-Lab1\CSC114-Module7-Lab1.cpp(24,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Lab1\CSC114-Module7-Lab1\CSC114-Module7-Lab1.cpp(24,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Lab1\CSC114-Module7-Lab1\CSC114-Module7-Lab1.cpp(24,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Lab1\CSC114-Module7-Lab1\CSC114-Module7-Lab1.cpp(24,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Lab1\CSC114-Module7-Lab1\CSC114-Module7-Lab1.cpp(24,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Lab1\CSC114-Module7-Lab1\CSC114-Module7-Lab1.cpp(24,66): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Lab1\CSC114-Module7-Lab1\CSC114-Module7-Lab1.cpp(24,71): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Lab1\CSC114-Module7-Lab1\CSC114-Module7-Lab1.cpp(33,11): warning C4101: 'optionMenu': unreferenced local variable
+  CSC114-Module7-Lab1.vcxproj -> D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Lab1\x64\Debug\CSC114-Module7-Lab1.exe

@@ -1,0 +1,5 @@
+﻿  CSC114-Module7-Assignment.cpp
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Assignment\CSC114-Module7-Assignment\CSC114-Module7-Assignment.cpp(31,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Assignment\CSC114-Module7-Assignment\CSC114-Module7-Assignment.cpp(21,11): warning C4101: 'optionMenu': unreferenced local variable
+D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Assignment\CSC114-Module7-Assignment\CSC114-Module7-Assignment.cpp(22,9): warning C4101: 'counterValue': unreferenced local variable
+  CSC114-Module7-Assignment.vcxproj -> D:\School\DTCC_Computer Science\CSC 114_Intro to Computer Science\CSC114-Module7-Assignment\x64\Debug\CSC114-Module7-Assignment.exe
